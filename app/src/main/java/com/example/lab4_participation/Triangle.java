@@ -1,6 +1,7 @@
 package com.example.lab4_participation;
 
 class Triangle extends Shape {
-    private int x;
-    private int y;
+    private Integer x;
+    private Integer y;
+    private String color;
 }
